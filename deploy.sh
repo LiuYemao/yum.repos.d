@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -v
+set -x
 
 read -p "Enter the source you want to use(aliyun / [default: tsinghua]): " src
 
